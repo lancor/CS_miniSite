@@ -1,4 +1,4 @@
-# SCSU CS Department Mini Site
+# CS Department Mini Site
 
 ## In-Class Exercise
 
